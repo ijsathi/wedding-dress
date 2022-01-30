@@ -4,9 +4,9 @@
 ### Allure Bridals is one of the premier designers of wedding dresses, bridesmaid dresses, bridal and formal gowns. Browse our collection and visit one of our.
 
 ## Code Splitting
-https://github.com/ijsathi/Wedding-dresses-project12
+https://github.com/ijsathi/wedding-dress
 ## Server GitHub link
-https://github.com/ijsathi/Wedding-dresses-project12-server
+https://github.com/ijsathi/wedding-dress-server
 
 ### why stay with us?
 1. Incredible Value
